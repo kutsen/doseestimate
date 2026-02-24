@@ -1,7 +1,7 @@
-# doseestimate
-Dose Estimate
+# doseassessment
+Dose Assessment
 
-Utility for estimate of organ doses and effective dose to patient during diagnostic radiography exposure.
+Utility for assess organ doses and effective dose to patient during diagnostic radiography exposure.
 
 Recommended citations:
 1) Kutsen S. A., Khrutchinsky A. A., Minenko V. F., Kukhta T. S., Viarenich K. A. Problem of estimate of dose burdens to patient during radiography examinations in Belarus. In Proceedings of 2nd congress of physicists of Belarus, 3-5 November 2008. Eds. S. Ya. Kilin (chief editor) et al. Minsk. P. 174-175. (in Russian)
